@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasna22
-- 👀 I’m interested in .data analysis..
-- 🌱 I’m currently learning .Applied Mathematics..
+- 👀 I’m interested in Machine learning.
+- 🌱 I’m currently learning Applied Mathematics..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hsnaa.saad9@gmail.com...
 
